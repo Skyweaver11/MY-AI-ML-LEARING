@@ -85,3 +85,6 @@ if epoch % 100 == 0:
 # - Gradients guide the updates for weight (w) and bias (b) during the optimization process.
 # - The gradients are computed based on the partial derivatives of the cost function.
 # - Gradients tell us how to adjust the parameters to minimize the cost function and improve the model's predictions.
+
+
+#this is the genral code for minibatch
